@@ -66,6 +66,10 @@ body{
 			padding-left: 50px;
 		    padding-right: 50px;
 		}
+
+		.list i{
+			margin-right: 10px;
+		}
 		
 		.home-description{
 			padding-right: 90px;
@@ -76,6 +80,33 @@ body{
 .img-qoheng{
 	width: 100%;
 }
+
+.logos{
+	width: 200px;
+	background-color: white;
+	margin: auto;
+}
+
+.logowork{
+	margin: auto;
+	
+}
+
+.logowork td{
+	margin: auto;
+	width: 100px;
+
+}
+
+.logowork img{
+	width: 80px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	display: block;
+	margin: auto;
+
+}
+
 
 
 
